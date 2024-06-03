@@ -112,6 +112,3 @@ async function saveTextContent(textContent, outputFolder) {
 }
 // Similar functions for saving JSON, CSV, and videos
 
-
-// 4. Handling Dynamic Content:
-
