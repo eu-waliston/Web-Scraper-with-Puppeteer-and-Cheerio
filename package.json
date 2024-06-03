@@ -1,0 +1,12 @@
+{
+  "name": "web-scraper-with-puppeteer-and-cheerio",
+  "version": "1.0.0",
+  "description": "In today’s data-driven world, web scraping has become an invaluable tool for extracting information from websites efficiently and effectively. By automating the process of data collection, web scrapers enable users to gather large volumes of data quickly, saving time and resources. In this blog post, we’ll explore the fundamentals of web scraping and learn how to build a powerful web scraper using two popular tools:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

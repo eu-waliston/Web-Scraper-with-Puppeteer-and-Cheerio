@@ -7,3 +7,12 @@ In today’s data-driven world, web scraping has become an invaluable tool for e
 ## Puppeteer and Cheerio.
 
 Puppeteer, a Node.js library, provides a high-level API for controlling headless Chrome or Chromium browsers, while Cheerio is a lightweight jQuery-like library for parsing HTML and manipulating the DOM in Node.js.
+
+
+## Instalation guide
+```
+npm install puppeteer
+npm install cheerio
+npm install image-downloader
+npm install objects-to-csv
+```
